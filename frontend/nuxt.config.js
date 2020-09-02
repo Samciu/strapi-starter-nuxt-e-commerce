@@ -18,6 +18,10 @@ export default {
 
   head: {
     title: "Buy stickers with Strapi, Nuxt.js and Snipcart",
+    script: [{
+      src: 'https://cdn.snipcart.com/themes/v3.0.16/default/snipcart.js',
+      body: true
+    }],
     meta: [{
         charset: 'utf-8'
       },
