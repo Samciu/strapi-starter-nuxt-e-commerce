@@ -48,10 +48,8 @@ export default {
         type: 'image/x-icon',
         href: '/favicon.ico'
       }
-    ],
-    script: [{
-      src: 'https://cdn.snipcart.com/themes/v3.0.16/default/snipcart.js'
-    }]
+    ]
+    
   },
   /*
    ** Global CSS
